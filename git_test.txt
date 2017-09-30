@@ -3,3 +3,5 @@ Git is free software
 
 i dont know how to say
 but git seems magic 
+
+no matter what we should learn how to use it
