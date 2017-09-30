@@ -1,2 +1,5 @@
 Git is a version controll system......
 Git is free software
+
+i dont know how to say
+but git seems magic 
